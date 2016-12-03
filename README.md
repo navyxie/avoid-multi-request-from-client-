@@ -50,7 +50,9 @@ function getUserAsset() {
 
 如何优雅地解决这样的问题，最近在重构angular的项目以及在写微信小程序demo，有一些小实践和总结，例子请参照：
 
-[angular的例子](./angular-demo.js)
-[微信小程序的例子](./xiaochengxu-demo.js)
+
+- [`angular的例子`](./angular-demo.js)
+- [`微信小程序的例子`](./xiaochengxu-demo.js)
+
 
 欢迎大家交流更多好的解决方案
