@@ -55,6 +55,7 @@ function getUserAsset() {
 
 - [`angular的例子`](./angular-demo.js)
 - [`微信小程序的例子`](./xiaochengxu-demo.js)
+- [`vue2.0例子`](./vue2.0-demo.js)
 
 
 欢迎大家交流更多好的解决方案。
